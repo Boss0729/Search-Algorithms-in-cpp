@@ -2,7 +2,7 @@
 
 **Aim:** To study different searching techniques in C++ and implement programs to search for elements in an array.  
 
-**Tools:** GNU g++ compiler or any online C++ compiler.  
+**Tools:** VS code. 
 
 # Theory:
 Searching is the process of finding a specific element in a data structure. There are several searching techniques, among which **linear search** and **binary search** are commonly used.  
